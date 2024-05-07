@@ -1,5 +1,5 @@
 # Appointment Booking Screen React Assignment
-## dynamic-appointment.netlify.app
+## [dynamic-appointment.netlify.app](https://dynamic-appointment.netlify.app/)
 
 <img width="933" alt="image" src="https://github.com/jainnayushi/Appointment-Booking-Screen/assets/64698800/6b2f6777-ab77-4c27-b7b8-e903682e0de0">
 
