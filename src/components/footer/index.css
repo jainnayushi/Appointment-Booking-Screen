@@ -1,0 +1,20 @@
+.container {
+  background-color: #378760;
+  padding: 3px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.footer-text {
+  text-transform: uppercase;
+  color: white;
+  font-size: 12px;
+}
+.next-btn {
+  margin: 10px 0px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+}
